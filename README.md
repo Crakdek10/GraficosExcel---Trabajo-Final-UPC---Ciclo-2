@@ -42,6 +42,8 @@ Hola, este es un trabajo final de python que me dejaron en la universidad, trata
 
 ![image](https://github.com/Crakdek10/Gr-ficosExcel---Trabajo-Final-UPC---Ciclo-2/assets/160164964/24c569d9-0eb0-4b7e-ab82-f6a063a198e7)
 
+<img width="895" height="332" alt="image" src="https://github.com/user-attachments/assets/3bea5370-d77d-4a41-b723-77d57eed5409" />
+
 
 ## Dataframe
 
